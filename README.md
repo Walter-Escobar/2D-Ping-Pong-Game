@@ -18,3 +18,7 @@ The Game can be also paused by pressing 'Space Bar'
 
 
 The maximum score is 10 points. Enjoy the game!
+
+Change log[]:
+ -Added a pause functionality by pressing SPACE key on keyboard
+ -Added option to play against AI by pressing 'OK' button on the dialog box. The basic two player functionality remains the same
